@@ -1,0 +1,13 @@
+1. dw vuforia engine
+2. drag and import vuforia package
+3. add vuforia engine > ar camera
+4. properties>open engine config
+5. get license key
+6. paste license key
+7. add vuforia engine > image target
+8. set type to from image
+9. drag image
+10. set texture type to sprite
+11. Drag object and set child of image
+12. set width property of image target properly (70mm/0.07m)
+13. build after setting player settings.
